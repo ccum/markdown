@@ -7,6 +7,9 @@ DESCRIPCIONES
 Esto es un pyoyecto hola hola
 
 
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis.
+>Quisque mollis nisi et lorem dictum blandit. Suspendisse eu massa feugiat, aliquet neque vel, pharetra orci.
+
 AUTORES
 -------
 
@@ -28,3 +31,8 @@ public int Dev(int hola){
 }
 
 ```
+
+@cesar.cueva
+#1
+982323 
+%1.0
