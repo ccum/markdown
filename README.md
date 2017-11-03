@@ -33,6 +33,7 @@ public int Dev(int hola){
 ```
 
 @cesar.cueva
+@all
 #1
-982323 
+38ca83114d0b349a35e51a087667d3ce9f3b5dd5 
 %1.0
