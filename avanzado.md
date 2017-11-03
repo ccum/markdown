@@ -8,6 +8,6 @@ Inline-estule
 ![Gitlab log](http://thedatabaseavenger.com/wp-content/uploads/2017/01/GitLab-logo.png)
 
 Reference
-![Gitlab log][Logo]
+![Gitlab log][logo]
 
-[logo]: data:http://thedatabaseavenger.com/wp-content/uploads/2017/01/GitLab-logo.png
+[logo]: http://thedatabaseavenger.com/wp-content/uploads/2017/01/GitLab-logo.png
