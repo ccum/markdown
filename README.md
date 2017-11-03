@@ -12,10 +12,19 @@ AUTORES
 
 Cesar Cueva
 
-'''javascript
+```javascript
 var nuevo= function(){
     
-    console.log("hola mundo")
+    console.log("hola mundo");
 }
 
-'''
+```
+
+
+```java
+
+public int Dev(int hola){
+    
+}
+
+```
