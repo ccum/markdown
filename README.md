@@ -12,10 +12,10 @@ AUTORES
 
 Cesar Cueva
 
-´´´javascript
+'''javascript
 var nuevo= function(){
     
     console.log("hola mundo")
 }
 
-´´´
+'''
