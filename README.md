@@ -11,3 +11,11 @@ AUTORES
 -------
 
 Cesar Cueva
+
+´´´javascript
+var nuevo= function(){
+    
+    console.log("hola mundo")
+}
+
+´´´
